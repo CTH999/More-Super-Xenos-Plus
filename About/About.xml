@@ -129,7 +129,6 @@
 
   </modDependencies>
   <loadAfter>
-    <li>edb.preparecarefully</li>
     <li>morebiotechstylegenes.mod</li>
     <li>sarg.alphagenes</li>
     <li>sov.homelander</li>
@@ -157,9 +156,10 @@
     <li>CTH.vreGeniesExpanded</li>
     <li>CTH.ultimatePower</li>
     <li>CTH.vre-allexpanded</li>
+    <li>void.charactereditor</li>
   </loadAfter>
   <loadBefore>
-    <li>void.charactereditor</li>
     <li>co.uk.epicguru.whatsthatmod</li>
+    <li>edb.preparecarefully</li>
   </loadBefore>
 </ModMetaData>
