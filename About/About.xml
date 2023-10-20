@@ -156,7 +156,7 @@
     <li>petre27.godlikemetabolismgene</li>
     <li>CTH.vreGeniesExpanded</li>
     <li>CTH.ultimatePower</li>
-    <li>cth.vre-allexpanded</li>
+    <li>CTH.vre-allexpanded</li>
   </loadAfter>
   <loadBefore>
     <li>void.charactereditor</li>
