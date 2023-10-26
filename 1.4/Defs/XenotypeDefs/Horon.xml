@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <XenotypeDef>
-    <defName>GegeXT_Horon</defName>
+    <defName>MoreSuperXenos_Horon</defName>
     <label>Horon</label>
-    <description>Who Did This, and Why, is unknown</description>
+    <description>T</description>
     <descriptionShort></descriptionShort>
-    <iconPath>UI/Icons/Xenotypes/AG_Taukai</iconPath>
+    <iconPath>UI/Icons/Xenotypes/AG_Malachai</iconPath>
     <inheritable>false</inheritable>
     <genes>
       <li>SuperHeroBase</li>
@@ -93,7 +93,7 @@
       <li>AG_NoWings</li>
       <li>AG_SingleWing</li>
       <li>AG_SingleEar</li>
-
+      <li>AG_Beauty_VeryVeryUgly</li>
       <li>EBSG_Unpreachy</li>
       <li>EBSG_Crass</li>
       <li>EBSG_HyperUnimposing</li>

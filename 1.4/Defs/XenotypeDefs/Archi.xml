@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <XenotypeDef>
-    <defName>CT_Archi</defName>
+    <defName>MoreSuperXenos_Archi</defName>
     <label>Archi</label>
-    <description>Test</description>
-    <descriptionShort>Test</descriptionShort>
-    <iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon3</iconPath>
+    <description>T</description>
+    <descriptionShort></descriptionShort>
+    <iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon1</iconPath>
     <inheritable>false</inheritable>
     <genes>
       <li>Deathless</li>
@@ -63,6 +63,7 @@
       <li>Libido_ExtremelyLow</li>
       <li>EBSG_ArchiteFertility</li>
       <li>EBSG_MajorArchiteBeauty</li>
+      <li>AG_Beauty_Angelic</li>
       <li>EBSG_Preacher</li>
       <li>EBSG_ArchiteEnchantment</li>
       <li>EBSG_MajorArchiteEnhancedTerrifying</li>
@@ -81,10 +82,10 @@
       <li>EBSG_MajorArchiteEnhancedCuriosity</li>
       <li>EBSG_MajorArchiteEnhancedBurrowing</li>
       <li>AlphaGenes_ExoticOrganism</li>
-      <li>EBSG_MajorArchiteLearning</li>
       <li>EBSG_EloquentSpeaker</li>
       <li>AG_ChameleonVision</li>
       <li>Hair_Grayless</li>
+      <li>EBSG_MajorArchiteLearning</li>
     </genes>
   </XenotypeDef>
 </Defs>
